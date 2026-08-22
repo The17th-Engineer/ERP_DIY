@@ -1,6 +1,4 @@
 {
   "service": "ERP_DIY",
-  "enabled": false,
-  "minimumVersion": "1.0.0",
-  "message": "Service Enabled"
+  "enabled": true"
 }
