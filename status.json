@@ -1,0 +1,6 @@
+{
+  "service": "ERP_DIY",
+  "enabled": true,
+  "minimumVersion": "1.0.0",
+  "message": ""
+}
