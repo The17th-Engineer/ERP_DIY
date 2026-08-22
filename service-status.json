@@ -1,6 +1,6 @@
 {
   "service": "ERP_DIY",
-  "enabled": ture,
+  "enabled": true,
   "minimumVersion": "1.0.0",
   "message": "Service Enabled"
 }
